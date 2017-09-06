@@ -6,7 +6,7 @@ This fork contains Mayfield-specific changes to the ROS clang-format file. Chang
  * Tab and indent widths are set to 4
  * Braces do *not* break after control statements or exception statements
 
-The easiest way to use this is to check the repo out somewhere, than then symlink the ``.clang-format`` file to the top level of the repo you want to use it in.
+The easiest way to use this is to check the repo out somewhere, then symlink the ``.clang-format`` file to the top level of the repo you want to use it in.
 
 The contents of the original readme are below.
 
